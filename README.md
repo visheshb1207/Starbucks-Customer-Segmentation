@@ -7,8 +7,7 @@ I also read an article on how __Starbucks is like a bank__ on Groww ( yeah, me p
 
 So, being a coffee lover and someone intrested in business mechanisms, I decided to take up this project. (My favourite is Caramel Latte, Thanks :) 
 <img width="423" height="387" alt="image" src="https://github.com/user-attachments/assets/85d4dba4-7531-46e9-99e5-b6ed04fac877" />
-
-<img width="423" height="431" alt="image" src="https://github.com/user-attachments/assets/63e62c00-91fe-4fc9-9b8f-19d52dba187b" />
+<img width="423" height="387" alt="image" src="https://github.com/user-attachments/assets/63e62c00-91fe-4fc9-9b8f-19d52dba187b" />
 
 
 * __ML Techniques used__ : K-Means, PCA, t-SNE, Gaussian Mixture Models, Silhouette plot, SSE/Inertia, Cluster Analysis
