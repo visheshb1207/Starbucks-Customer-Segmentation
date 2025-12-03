@@ -38,7 +38,6 @@ Ans - Well, because it is still a very difficult and computationally intensive t
 
 * Performed __Cluster Analysis__ to determine properties and behaviours of clusters, understood the physical significance of the clusters in real life, and went ahead to think of how the company should make different strategies for these clusters.
 
-<img width="1128" height="601" alt="image" src="https://github.com/user-attachments/assets/37dc9363-1c7b-4b17-a486-dd911affe866" />
 
 
 * Studied present Starbucks site to see their presently deployed marketing strategies for a new customer. Developed __Product Understanding__ and understanding of __UI/UX for marketing__ used by them.
